@@ -44,7 +44,7 @@ Este Código de Conduta aplica-se a todos os espaços do projeto, bem como quand
 
 ## 5. Aplicação e Relatos
 
-Casos de comportamento abusivo, de assédio ou inaceitável podem ser relatados aos mantenedores do projeto através do e-mail [conduct@javascriptos.org]. Todas as denúncias serão revisadas e investigadas de forma rápida e justa.
+Casos de comportamento abusivo, de assédio ou inaceitável podem ser relatados aos mantenedores do projeto através do e-mail [daniellorenzo2050@gmail.com]. Todas as denúncias serão revisadas e investigadas de forma rápida e justa.
 
 Todos os mantenedores do projeto têm a obrigação de respeitar a privacidade e a segurança de quem reportou o incidente.
 
